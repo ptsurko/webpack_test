@@ -1,3 +1,6 @@
+https://github.com/webpack/webpack/issues/368
+https://github.com/gdi2290/NG6-starter/issues/88
+
 https://code.luasoftware.com/tutorials/webpack/merge-multiple-javascript-into-single-file/
 https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923
 https://medium.com/@andrejsabrickis/modern-approach-of-javascript-bundling-with-webpack-3b7b3e5f4e7
@@ -14,4 +17,3 @@ https://blog.codeship.com/publishing-a-maintainable-npm-module-with-continuous-i
 Code splitting:
 https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html
 https://medium.com/bucharestjs/upgrading-a-create-react-app-project-to-a-ssr-code-splitting-setup-9da57df2040a
-https://github.com/webpack/webpack/issues/368
